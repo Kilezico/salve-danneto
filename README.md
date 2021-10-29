@@ -9,3 +9,4 @@ Salte sobre os blocos para chegar até o Danneto.
 Projeto feito com Python e Pygame.
 
 Na pasta win10, se encontra a versão para Windows 10 (.exe)
+
